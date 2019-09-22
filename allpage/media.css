@@ -1,0 +1,37 @@
+@media only screen and (max-width: 500px) {
+    body {
+      background-color: white;
+    }
+    .ul1{
+        padding-left:0px;
+        margin:0px;
+        max-width:100%;
+    }
+    .ul1 li{
+         background-color:black;
+         color:white;
+         float: none;
+         
+         
+    }
+    
+    #div2{
+        background-color: white;
+    }
+    .headingdiv1{
+
+        margin-left:0px;
+    }
+    #img1{
+
+       
+    }
+    .bodydiv1{
+
+        height:400px;
+        width:95%;
+        border: 1px solid black;
+        margin-top:250px;
+        margin-left:1.5%;
+    }
+  }
